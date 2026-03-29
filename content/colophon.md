@@ -9,3 +9,7 @@ Set in [Literata](https://github.com/googlefonts/literata) for body text and [Je
 The only JavaScript is a small inline script that adds copy buttons to code blocks — everything else works without JS. No analytics, no tracking, no cookies.
 
 Hosted on [GitHub Pages](https://pages.github.com/). The source is [on GitHub](https://github.com/sid0jack/sid0jack.github.io).
+
+## Who made this
+
+The entirety of this site — templates, CSS, shortcodes, configuration, and placeholder content — was written by [Claude Code](https://claude.ai/claude-code). The actual human writing is by Siddhant.
